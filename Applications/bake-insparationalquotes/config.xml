@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extension>
+
+    <information> <!-- App info -->
+
+        <name> Bake Quotes </name> <!-- Name -->
+        <version>0.1.0</version> <!-- Version -->
+        <author>FriedVoxelsDev(Darsh Duaa)</author> <!-- Author/Creator -->
+        <id>bake-quotes</id> <!-- App-ID -->
+
+    </information>
+
+    <menus>
+        <menu type="json" dynamic="true">menu.json</menu>
+    </menus>
+
+</extension>
