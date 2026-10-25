@@ -2,25 +2,26 @@
 
 B.A.K.E or Built Applications Kindles Employ, is exactly what the name says. I created a series of mini projects which can run on modded e-readers(preferably kindle) utilizing KUAL.
 
+
   ## Project List
 
     - Insparational Quotes (WIP)
 
-    - Clock (Unfinished)
+    - Clock (Upcoming)
 
-    - Pomdoro Timer (Unfinished)
+    - Pomdoro Timer (Upcoming)
 
-    - Blinkify (Unfinished)
+    - Blinkify (Upcoming)
+  
+    - Weather App (Upcoming)
 
-    - Desk Pet (Unfinished)
+    - ASCII Pet (Upcoming)
 
-    - Task List (Unfinished)
+    - Task List (Upcoming)
 
-    - Hacktime Display (Unfinished)
+    - Hacktime Display (Upcoming)
 
-    - Weather App (Unfinished)
-
-    - Calendar (Unfinished)
+    - Calendar ((Upcoming)
 
 
   ## Instalation / How to run
