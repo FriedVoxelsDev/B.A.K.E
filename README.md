@@ -7,6 +7,8 @@ B.A.K.E or Built Applications Kindles Employ, is exactly what the name says. I c
 
     - Insparational Quotes (WIP)
 
+        Link
+
     - Clock (Upcoming)
 
     - Pomdoro Timer (Upcoming)
