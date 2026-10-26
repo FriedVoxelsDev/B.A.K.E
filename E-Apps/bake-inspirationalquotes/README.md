@@ -4,7 +4,7 @@ Surprisingly, it took me 10 hours, and I'm just happy it's over.
 
 The project just cycles quotes every 10 minutes / 600 seconds,
 
-PREREQUISITES:(If you're testing for terra, I'd advise just looking at the screenshots, unless you have no life)
+PREREQUISITES:(If you're testing for terra, I'd advise just looking at the video, unless you have no life)
 
  - Bash
  - Lua 
