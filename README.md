@@ -1,17 +1,17 @@
 # B.A.K.E
 
-B.A.K.E or Built Applications Kindles Employ, is exactly what the name says. I created a series of mini projects which can run on modded e-readers(preferably kindle) utilizing KUAL.
+B.A.K.E, or Built Applications Kindles Employ, is exactly what the name says. I created a series of mini projects that run on modded e-readers (preferably Kindle) using KUAL.
 
 
   ## Project List
 
-    - Insparational Quotes (WIP)
+    - Inspirational Quotes (WIP)
 
         Link
 
     - Clock (Upcoming)
 
-    - Pomdoro Timer (Upcoming)
+    - Pomodoro Timer (Upcoming)
 
     - Blinkify (Upcoming)
   
@@ -26,7 +26,7 @@ B.A.K.E or Built Applications Kindles Employ, is exactly what the name says. I c
     - Calendar ((Upcoming)
 
 
-  ## Instalation / How to run
+  ## Installation / How to run
 
 
 
