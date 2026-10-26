@@ -1,10 +1,10 @@
 This is the project from B.A.K.E, a quote cycler project.
 
-Suprisingly it took me 10 hours, and I'm just happy it's over. 
+Surprisingly, it took me 10 hours, and I'm just happy it's over. 
 
-The projects just cycles quotes every 10 minutes / 600 seconds,
+The project just cycles quotes every 10 minutes / 600 seconds,
 
-PREEQUISITES:(If you're testing for terra, I'd advise just look at the screenshots, unless you have no life)
+PREREQUISITES:(If you're testing for terra, I'd advise just looking at the screenshots, unless you have no life)
 
  - Bash
  - Lua 
@@ -14,3 +14,5 @@ PREEQUISITES:(If you're testing for terra, I'd advise just look at the screensho
  How to run:
  
  cd ~/FOLDER_IT'S_IN/B.A.K.E/E-Apps/bake-inspirationalquotes && chmod +x run.sh && ./run.sh (with all prerequisites installed)
+
+Demo link: https://youtu.be/LSil2HtAHSY
