@@ -9,7 +9,7 @@ Half - Working - Demo: **[YouTube Video Demo](https://youtu.be/LSil2HtAHSY)**
 
 ---
 
-## 🛠 Prerequisites
+##  Prerequisites
 
 To run or test this application locally, ensure you have the following packages installed:
 
@@ -20,7 +20,7 @@ To run or test this application locally, ensure you have the following packages 
 
 ---
 
-## 💻Local Testing & Execution
+## Local Testing & Execution
 
 1. Clone or navigate into the target workspace directory:
    ```bash
