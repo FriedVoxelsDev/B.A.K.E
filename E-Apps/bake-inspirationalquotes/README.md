@@ -1,18 +1,48 @@
-This is the project from B.A.K.E, a quote cycler project.
 
-Surprisingly, it took me 10 hours, and I'm just happy it's over. 
 
-The project just cycles quotes every 10 minutes / 600 seconds,
+#  B.A.K.E. — Inspirational Quotes
 
-PREREQUISITES:(If you're testing for terra, I'd advise just looking at the video, unless you have no life)
+An automated typographic quote cycler designed for E-Ink displays. This application cycles 50 curated inspirational gaming-based quotes on random.
 
- - Bash
- - Lua 
- - GTK 3.0
- - LuaGObject
- 
- How to run:
- 
- cd ~/FOLDER_IT'S_IN/B.A.K.E/E-Apps/bake-inspirationalquotes && chmod +x run.sh && ./run.sh (with all prerequisites installed)
+## Project Demo
+Half - Working - Demo: **[YouTube Video Demo](https://youtu.be/LSil2HtAHSY)**
 
-Demo link: https://youtu.be/LSil2HtAHSY
+---
+
+## 🛠 Prerequisites
+
+To run or test this application locally, ensure you have the following packages installed:
+
+*   **Bash** (Terminal environment)
+*   **Lua** (Runtime engine)
+*   **GTK 3.0** (Windowing toolkit)
+*   **LuaGObject** (GObject introspection bindings for Lua)
+
+---
+
+## 💻Local Testing & Execution
+
+1. Clone or navigate into the target workspace directory:
+   ```bash
+   cd ~/FOLDER_IT_S_IN/B.A.K.E/E-Apps/bake-inspirationalquotes
+   ```
+2. Grant executable permissions to the control script:
+   ```bash
+   chmod +x run.sh
+   ```
+3. Execute the initializer file:
+   ```bash
+   ./run.sh
+   ```
+
+---
+
+##  Hardware Deployment (KUAL Setup)
+
+For deployment directly onto a jailbroken Kindle or alternative E-Reader running **KUAL**:
+
+1. Transfer this application folder layout into your Kindle's device-side storage path:
+   ```text
+   /extensions/bake-inspirationalquotes/
+   ```
+2. The folder structure relies on the embedded `config.xml` and `menu.json` files to properly hook into the KUAL subsystem launcher.
