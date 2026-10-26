@@ -7,7 +7,7 @@ B.A.K.E, or Built Applications Kindles Employ, is exactly what the name says. I 
 
     - Inspirational Quotes (WIP)
 
-        Link
+        [Link](https://github.com/FriedVoxelsDev/B.A.K.E/blob/main/E-Apps/bake-inspirationalquotes/README.md)
 
     - Clock (Upcoming)
 
